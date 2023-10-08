@@ -42,7 +42,7 @@ const TimeLine = () => {
                 <Events>
                     {/* Project: Todo List With MUI */}
                     <ImageEvent
-                        date='22/08/2021'
+                        date='22/09/2022'
                         className='text-center'
                        // text='Mern Todolist'
                         src={ToDO}
@@ -161,7 +161,7 @@ const TimeLine = () => {
 
                     {/* Project: Dice Game */}
                     <ImageEvent
-                        date='16/02/2021'
+                        date='15/10/2022'
                         className='text-center'
                         text='Dice Game'
                         src={DiceGame}
@@ -258,7 +258,7 @@ const TimeLine = () => {
                     </ImageEvent>
                     {/* Project: E-commerce Website */}
                     <ImageEvent
-                        date='16/02/2021'
+                        date='17/12/2022'
                         className='text-center'
                         text='Ecommerce'
                         src={Ecom}
@@ -356,7 +356,7 @@ const TimeLine = () => {
                     </ImageEvent>
                     {/* Project: Real-Estate */}
                     <ImageEvent
-                    date='16/02/2021'
+                    date='14/01/2023'
                     className='text-center'
                     text='Real-Estate'
                     src={Realestate}
@@ -448,7 +448,7 @@ const TimeLine = () => {
                     </ImageEvent>
                     {/* Project: Game Store */}
                     <ImageEvent
-                    date='16/02/2021'
+                    date='22/02/2023'
                     className='text-center'
                     text='Game-Store'
                     src={Gameimg}
@@ -551,7 +551,7 @@ const TimeLine = () => {
                     </ImageEvent>
                      {/* Project: Paytm clone */}
                      <ImageEvent
-                     date='16/02/2021'
+                     date='18/03/2023'
                      className='text-center'
                      text='Paytm clone'
                      src={Paytm}
@@ -649,7 +649,7 @@ const TimeLine = () => {
                      </ImageEvent>
 
                      <ImageEvent
-                     date='16/02/2021'
+                     date='14/04/2023'
                      className='text-center'
                      text='Netflix clone'
                      src={Netflix}
@@ -748,7 +748,7 @@ const TimeLine = () => {
 
                     {/* {project covid tracker} */}
                     <ImageEvent
-                        date='30/03/2021'
+                        date='12/08/2023'
                         className='text-center'
                         text='Covid Tracker'
                         src={L_Covid}
